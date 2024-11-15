@@ -99,7 +99,7 @@ int main() {
 	posit5 = (sum >> posit5) & 1;
 	posit7 = (sum >> posit7) & 1;
 	posit11 = (sum >> posit11) & 1;
-	printf("The 3, 5, 7, 11 bits are: %d%d%d%d\n", posit3, posit5, posit7, posit11);
+	printf("The 3,5,7,11 bits are: %d%d%d%d\n", posit3, posit5, posit7, posit11);
 
 	// Hi! :)
 	printf("Bye!\n");
