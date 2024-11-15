@@ -81,7 +81,7 @@ int main() {
 	printf("\n3, 5, 7, 11:\n");
 
 	// used only in #5
-	int firstNum, secondNum, sum;
+	int firstNum, secondNum, sum, result;
 	int posit3 = 3, posit5 = 5, posit7 = 7, posit11 = 11;  // reassigned below
 	
 	// Scan two integers in octal base
