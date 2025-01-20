@@ -1,6 +1,6 @@
 /******************
 Name: Samantha Lauren Newmark
-ID: 346587629
+ID: ---------
 Assignment: 1
 *******************/
 #include <stdio.h>
